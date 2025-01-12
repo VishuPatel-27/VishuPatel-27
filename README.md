@@ -45,5 +45,6 @@
 
 - 💬 Ask me about **DevOps**
 - 📫 How to reach me **[vishupatel575@gmail.com](mailto:vishupatel575@gmail.com)**
+- 📫LinkedIn Profile **[Vishu Patel](https://www.linkedin.com/in/vishu-patel/)**
 
 
