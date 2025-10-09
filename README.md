@@ -11,7 +11,7 @@
 <h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
 
 
-- I work on Software Development, DevOps, Cloud and everting around it.
+- I work on Software Development, DevOps, Cloud and everything around it.
 
 
 
